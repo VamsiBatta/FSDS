@@ -27,6 +27,9 @@ def math_operation():
         if operation == 'divide':
             r = num1 / num2
             result = 'the quotient when ' + str(num1) + ' is divided by ' + str(num2) + ' is ' + str(r)
+        if operation == 'Power':
+            r = num1**num2
+            result = 'the ' + str(num1) + ' power of ' + str(num2) + " is " + str(r)
         return render_template('results.html', result=result)
 
 
@@ -49,6 +52,9 @@ def math_operation_via_postman():
         if operation == 'divide':
             r = num1 / num2
             result = 'the quotient when ' + str(num1) + ' is divided by ' + str(num2) + ' is ' + str(r)
+        if operation == 'Power':
+            r = num1**num2
+            result = 'the ' + str(num1) + ' power of ' + str(num2) + str(r)
         return jsonify(result)
 
 

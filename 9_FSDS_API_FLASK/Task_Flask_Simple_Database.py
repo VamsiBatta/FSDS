@@ -8,7 +8,7 @@ c = mydb.cursor()
 c.execute("use exampledb")
 
 
-@app.route("/abc", methods=['GET', 'POST'])
+@app.route("/task1", methods=['GET', 'POST'])
 def task1():
     if request.method == "GET":
         c.execute("select * from glass_data")
