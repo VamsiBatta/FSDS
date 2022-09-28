@@ -8,7 +8,8 @@ def test():
     if request.method == "POST":
         a = request.json["num1"]
         b = request.json["num2"]
-        result = a + b
+        r = a+b
+        result = "The Sum of " + str(a) + " and " + str(b) + " is " + str(r)
         return jsonify(str(result))
 
 
@@ -17,7 +18,8 @@ def test1():
     if request.method == "POST":
         a = request.json["num1"]
         b = request.json["num2"]
-        result = a - b
+        r = a - b
+        result = "The Substraction of " + str(a) + " and " + str(b) + " is " + str(r)
         return jsonify(str(result))
 
 
@@ -26,7 +28,8 @@ def test2():
     if request.method == "POST":
         a = request.json["num1"]
         b = request.json["num2"]
-        result = a * b
+        r = a * b
+        result = "The Multplication of " + str(a) + " and " + str(b) + " is " + str(r)
         return jsonify(str(result))
 
 
@@ -35,7 +38,8 @@ def test3():
     if request.method == "POST":
         a = request.json["num1"]
         b = request.json["num2"]
-        result = a / b
+        r = a / b
+        result = "The Quotient of " + str(a) + " and " + str(b) + " is " + str(r)
         return jsonify(str(result))
 
 
