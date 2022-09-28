@@ -1,192 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="31b05374-cb9e-4512-9785-0ff16e2625f1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../1.FSDS - PYTHON - BASIC/.ipynb_checkpoints/FSDS - PYTHON - 15th JAN-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1.FSDS - PYTHON - BASIC/.ipynb_checkpoints/FSDS - PYTHON - 16th JAN-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1.FSDS - PYTHON - BASIC/.ipynb_checkpoints/FSDS - PYTHON - 22nd JAN-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1.FSDS - PYTHON - BASIC/.ipynb_checkpoints/FSDS - PYTHON - 23nd JAN-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1.FSDS - PYTHON - BASIC/.ipynb_checkpoints/FSDS - PYTHON - 29th JAN-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1.FSDS - PYTHON - BASIC/.ipynb_checkpoints/FSDS - PYTHON - 30th JAN-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1.FSDS - PYTHON - BASIC/.ipynb_checkpoints/FSDS - PYTHON - 9th JAN-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1.FSDS - PYTHON - BASIC/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1.FSDS - PYTHON - BASIC/.ipynb_checkpoints/Untitled1-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1.FSDS - PYTHON - BASIC/FSDS - PYTHON - 15th JAN.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1.FSDS - PYTHON - BASIC/FSDS - PYTHON - 16th JAN.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1.FSDS - PYTHON - BASIC/FSDS - PYTHON - 22nd JAN.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1.FSDS - PYTHON - BASIC/FSDS - PYTHON - 23nd JAN.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1.FSDS - PYTHON - BASIC/FSDS - PYTHON - 29th JAN.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1.FSDS - PYTHON - BASIC/FSDS - PYTHON - 30th JAN.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1.FSDS - PYTHON - BASIC/FSDS - PYTHON - 9th JAN.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1.FSDS - PYTHON - BASIC/Module_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1.FSDS - PYTHON - BASIC/Module_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1.FSDS - PYTHON - BASIC/Untitled.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1.FSDS - PYTHON - BASIC/Untitled1.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1.FSDS - PYTHON - BASIC/classes_file.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1.FSDS - PYTHON - BASIC/classes_file.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1.FSDS - PYTHON - BASIC/google.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1.FSDS - PYTHON - BASIC/logfile.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1.FSDS - PYTHON - BASIC/logfile2.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1.FSDS - PYTHON - BASIC/logfile3.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1.FSDS - PYTHON - BASIC/logfile4.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1.FSDS - PYTHON - BASIC/mydict.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1.FSDS - PYTHON - BASIC/test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1.FSDS - PYTHON - BASIC/test1.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../1.FSDS - PYTHON - BASIC/test5.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2.FSDS - PYTHON - SQL/.ipynb_checkpoints/FSDS - PYTHON - SQL  - 5TH FEB-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2.FSDS - PYTHON - SQL/.ipynb_checkpoints/FSDS - PYTHON - SQL - 6TH FEB-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2.FSDS - PYTHON - SQL/FSDS - PYTHON - SQL  - 5TH FEB.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2.FSDS - PYTHON - SQL/FSDS - PYTHON - SQL - 6TH FEB.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../2.FSDS - PYTHON - SQL/glass_1.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.FSDS - PYTHON - SQL_Lite/.ipynb_checkpoints/FSDS - PYTHON - SQL_Lite - 20TH FEB-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.FSDS - PYTHON - SQL_Lite/Example.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.FSDS - PYTHON - SQL_Lite/FSDS - PYTHON - SQL_Lite - 20TH FEB.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.FSDS - PYTHON - SQL_Lite/abcd.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.FSDS - PYTHON - SQL_Lite/joindb.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.FSDS - PYTHON - SQL_Lite/person.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3.FSDS - PYTHON - SQL_Lite/zipper_task_4.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.FSDS - PYTHON - MONGODB/.ipynb_checkpoints/FSDS - PYTHON - MONGO_DB  - 13TH FEB-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.FSDS - PYTHON - MONGODB/FSDS - PYTHON - MONGO_DB  - 13TH FEB.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.FSDS - PYTHON - MONGODB/FSDS - PYTHON - MONGO_DB  - 19TH FEB.3 MongoDB/.ipynb_checkpoints/19.3.1 mongoDB introduction-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.FSDS - PYTHON - MONGODB/FSDS - PYTHON - MONGO_DB  - 19TH FEB.3 MongoDB/.ipynb_checkpoints/19.3.2 pyMongo-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.FSDS - PYTHON - MONGODB/FSDS - PYTHON - MONGO_DB  - 19TH FEB.3 MongoDB/.ipynb_checkpoints/19.3.3 Atlas-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.FSDS - PYTHON - MONGODB/FSDS - PYTHON - MONGO_DB  - 19TH FEB.3 MongoDB/19.3.1 mongoDB introduction.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.FSDS - PYTHON - MONGODB/FSDS - PYTHON - MONGO_DB  - 19TH FEB.3 MongoDB/19.3.2 pyMongo.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.FSDS - PYTHON - MONGODB/FSDS - PYTHON - MONGO_DB  - 19TH FEB.3 MongoDB/19.3.3 Atlas.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.FSDS - PYTHON - MONGODB/FSDS - PYTHON - MONGO_DB  - 19TH FEB.3 MongoDB/mongo_img/Screen Shot 16-08-2020 at 11.41.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.FSDS - PYTHON - MONGODB/FSDS - PYTHON - MONGO_DB  - 19TH FEB.3 MongoDB/mongo_img/Screen Shot 16-08-2020 at 11.42.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.FSDS - PYTHON - MONGODB/FSDS - PYTHON - MONGO_DB  - 19TH FEB.3 MongoDB/mongo_img/Screen Shot 16-08-2020 at 11.51.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.FSDS - PYTHON - MONGODB/FSDS - PYTHON - MONGO_DB  - 19TH FEB.3 MongoDB/mongo_img/Screen Shot 16-08-2020 at 11.56.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.FSDS - PYTHON - MONGODB/FSDS - PYTHON - MONGO_DB  - 19TH FEB.3 MongoDB/mongo_img/Screen Shot 16-08-2020 at 11.57.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.FSDS - PYTHON - MONGODB/FSDS - PYTHON - MONGO_DB  - 19TH FEB.3 MongoDB/mongo_img/atlas/01.login.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.FSDS - PYTHON - MONGODB/FSDS - PYTHON - MONGO_DB  - 19TH FEB.3 MongoDB/mongo_img/atlas/02.CreateOrg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.FSDS - PYTHON - MONGODB/FSDS - PYTHON - MONGO_DB  - 19TH FEB.3 MongoDB/mongo_img/atlas/03NameOrg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.FSDS - PYTHON - MONGODB/FSDS - PYTHON - MONGO_DB  - 19TH FEB.3 MongoDB/mongo_img/atlas/04.AddMemberCreateOrg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.FSDS - PYTHON - MONGODB/FSDS - PYTHON - MONGO_DB  - 19TH FEB.3 MongoDB/mongo_img/atlas/05CreatePro.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.FSDS - PYTHON - MONGODB/FSDS - PYTHON - MONGO_DB  - 19TH FEB.3 MongoDB/mongo_img/atlas/06CreatePro2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.FSDS - PYTHON - MONGODB/FSDS - PYTHON - MONGO_DB  - 19TH FEB.3 MongoDB/mongo_img/atlas/07CreateProAddMember.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.FSDS - PYTHON - MONGODB/FSDS - PYTHON - MONGO_DB  - 19TH FEB.3 MongoDB/mongo_img/atlas/08BuildCluseter.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.FSDS - PYTHON - MONGODB/FSDS - PYTHON - MONGO_DB  - 19TH FEB.3 MongoDB/mongo_img/atlas/09CreateFreeCluster.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.FSDS - PYTHON - MONGODB/FSDS - PYTHON - MONGO_DB  - 19TH FEB.3 MongoDB/mongo_img/atlas/10CreateFreeStarterCluster.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.FSDS - PYTHON - MONGODB/FSDS - PYTHON - MONGO_DB  - 19TH FEB.3 MongoDB/mongo_img/atlas/11Click.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.FSDS - PYTHON - MONGODB/FSDS - PYTHON - MONGO_DB  - 19TH FEB.3 MongoDB/mongo_img/atlas/12WhitelistIP.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.FSDS - PYTHON - MONGODB/FSDS - PYTHON - MONGO_DB  - 19TH FEB.3 MongoDB/mongo_img/atlas/13CreatemongoDBUSER.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.FSDS - PYTHON - MONGODB/FSDS - PYTHON - MONGO_DB  - 19TH FEB.3 MongoDB/mongo_img/atlas/14Connect.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.FSDS - PYTHON - MONGODB/FSDS - PYTHON - MONGO_DB  - 19TH FEB.3 MongoDB/mongo_img/atlas/15SelectPyDriver_version.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.FSDS - PYTHON - MONGODB/FSDS - PYTHON - MONGO_DB  - 19TH FEB.3 MongoDB/mongo_img/atlas/16CopyConnectionString.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.FSDS - PYTHON - MONGODB/FSDS - PYTHON - MONGO_DB  - 19TH FEB.3 MongoDB/mongo_img/atlas/17AddUser.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.FSDS - PYTHON - MONGODB/FSDS - PYTHON - MONGO_DB  - 19TH FEB.3 MongoDB/mongo_img/atlas/18CreatePWDCopy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.FSDS - PYTHON - MONGODB/FSDS - PYTHON - MONGO_DB  - 19TH FEB.3 MongoDB/mongo_img/atlas/19USERS_withRWaccess.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.FSDS - PYTHON - MONGODB/FSDS - PYTHON - MONGO_DB  - 19TH FEB.3 MongoDB/mongo_img/atlas/20FinalVerification.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.FSDS - PYTHON - MONGODB/FSDS - PYTHON - MONGO_DB  - 19TH FEB.3 MongoDB/mongo_img/atlas/Screenshot from 2020-08-18 14-27-31.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.FSDS - PYTHON - MONGODB/FSDS - PYTHON - MONGO_DB  - 19TH FEB.3 MongoDB/mongo_img/comp1.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.FSDS - PYTHON - MONGODB/FSDS - PYTHON - MONGO_DB  - 19TH FEB.3 MongoDB/mongo_img/comp2.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.FSDS - PYTHON - MONGODB/FSDS - PYTHON - MONGO_DB  - 19TH FEB.3 MongoDB/mongo_img/comp3.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.FSDS - PYTHON - MONGODB/FSDS - PYTHON - MONGO_DB  - 19TH FEB.3 MongoDB/mongo_img/comp4.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.FSDS - PYTHON - MONGODB/FSDS - PYTHON - MONGO_DB  - 19TH FEB.3 MongoDB/mongo_img/compass/c1.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.FSDS - PYTHON - MONGODB/FSDS - PYTHON - MONGO_DB  - 19TH FEB.3 MongoDB/mongo_img/compass/c2.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.FSDS - PYTHON - MONGODB/FSDS - PYTHON - MONGO_DB  - 19TH FEB.3 MongoDB/mongo_img/compass/c3.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.FSDS - PYTHON - MONGODB/FSDS - PYTHON - MONGO_DB  - 19TH FEB.3 MongoDB/mongo_img/compass/c4.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.FSDS - PYTHON - MONGODB/FSDS - PYTHON - MONGO_DB  - 19TH FEB.3 MongoDB/mongo_img/compass/c5.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.FSDS - PYTHON - MONGODB/FSDS - PYTHON - MONGO_DB  - 19TH FEB.3 MongoDB/mongo_img/compass/c6.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.FSDS - PYTHON - MONGODB/FSDS - PYTHON - MONGO_DB  - 19TH FEB.3 MongoDB/mongo_img/compass/c7.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.FSDS - PYTHON - MONGODB/FSDS - PYTHON - MONGO_DB  - 19TH FEB.3 MongoDB/mongo_img/compass/c8.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.FSDS - PYTHON - MONGODB/FSDS - PYTHON - MONGO_DB  - 19TH FEB.3 MongoDB/mongo_img/compass/c9.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.FSDS - PYTHON - MONGODB/FSDS - PYTHON - MONGO_DB  - 19TH FEB.3 MongoDB/mongo_img/compass1.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.FSDS - PYTHON - MONGODB/FSDS - PYTHON - MONGO_DB  - 19TH FEB.3 MongoDB/mongo_img/installed1.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.FSDS - PYTHON - MONGODB/FSDS - PYTHON - MONGO_DB  - 19TH FEB.3 MongoDB/mongo_img/mDBCommServer.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.FSDS - PYTHON - MONGODB/FSDS - PYTHON - MONGO_DB  - 19TH FEB.3 MongoDB/mongo_img/msi1.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.FSDS - PYTHON - MONGODB/FSDS - PYTHON - MONGO_DB  - 19TH FEB.3 MongoDB/mongo_img/msi2.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.FSDS - PYTHON - MONGODB/FSDS - PYTHON - MONGO_DB  - 19TH FEB.3 MongoDB/mongo_img/msi3.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.FSDS - PYTHON - MONGODB/FSDS - PYTHON - MONGO_DB  - 19TH FEB.3 MongoDB/mongo_img/msi4.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.FSDS - PYTHON - MONGODB/FSDS - PYTHON - MONGO_DB  - 19TH FEB.3 MongoDB/mongo_img/msi5.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../4.FSDS - PYTHON - MONGODB/FSDS - PYTHON - MONGO_DB  - 19TH FEB.3 MongoDB/mongo_img/msi6.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.FSDS - PYTHON - PANDAS/.ipynb_checkpoints/1.FSDS - PYTHON - PANDAS - 26TH FEB-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.FSDS - PYTHON - PANDAS/.ipynb_checkpoints/2.FSDS - PYTHON - PANDAS - 27TH FEB-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.FSDS - PYTHON - PANDAS/.ipynb_checkpoints/3.FSDS - PYTHON - PANDAS - 5TH MAR-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.FSDS - PYTHON - PANDAS/.ipynb_checkpoints/4.FSDS - PYTHON - PANDAS - 6TH MAR-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.FSDS - PYTHON - PANDAS/.ipynb_checkpoints/5.FSDS - PYTHON - PANDAS - 12TH MAR-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.FSDS - PYTHON - PANDAS/1.FSDS - PYTHON - PANDAS - 26TH FEB.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.FSDS - PYTHON - PANDAS/2.FSDS - PYTHON - PANDAS - 27TH FEB.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.FSDS - PYTHON - PANDAS/3.FSDS - PYTHON - PANDAS - 5TH MAR.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.FSDS - PYTHON - PANDAS/4.FSDS - PYTHON - PANDAS - 6TH MAR.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.FSDS - PYTHON - PANDAS/5.FSDS - PYTHON - PANDAS - 12TH MAR.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.FSDS - PYTHON - PANDAS/Cricket_Group_1.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.FSDS - PYTHON - PANDAS/LUSID Excel - Business Agility - Making Simple Changes Quickly &amp; Easily.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.FSDS - PYTHON - PANDAS/LUSID Excel - Maintain a product in multiple currencies and share classes.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.FSDS - PYTHON - PANDAS/LUSID Excel - Manage Orders.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.FSDS - PYTHON - PANDAS/LUSID Excel - Manage instruments with economic definitions.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.FSDS - PYTHON - PANDAS/LUSID Excel - Manage your investment strategies.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.FSDS - PYTHON - PANDAS/LUSID Excel - Setting up your IBOR.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.FSDS - PYTHON - PANDAS/LUSID Excel - Setting up your market data.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.FSDS - PYTHON - PANDAS/NBA.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.FSDS - PYTHON - PANDAS/addresses.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.FSDS - PYTHON - PANDAS/bank-full.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.FSDS - PYTHON - PANDAS/bank-names.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.FSDS - PYTHON - PANDAS/bank.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.FSDS - PYTHON - PANDAS/contacts.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.FSDS - PYTHON - PANDAS/holiday_schedules.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.FSDS - PYTHON - PANDAS/json_response.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.FSDS - PYTHON - PANDAS/locations.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.FSDS - PYTHON - PANDAS/mail_addresses.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.FSDS - PYTHON - PANDAS/organizations.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.FSDS - PYTHON - PANDAS/phones.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.FSDS - PYTHON - PANDAS/programs.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.FSDS - PYTHON - PANDAS/regular_schedules.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.FSDS - PYTHON - PANDAS/sample.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.FSDS - PYTHON - PANDAS/services.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../5.FSDS - PYTHON - PANDAS/taxonomy.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../6.FSDS - PYTHON - NUMPY/.ipynb_checkpoints/1.FSDS - PYTHON - NUMPY - 12TH MAR-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../6.FSDS - PYTHON - NUMPY/.ipynb_checkpoints/2.FSDS - PYTHON - NUMPY - 13TH MAR-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../6.FSDS - PYTHON - NUMPY/1.FSDS - PYTHON - NUMPY - 12TH MAR.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../6.FSDS - PYTHON - NUMPY/2.FSDS - PYTHON - NUMPY - 13TH MAR.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../7.FSDS - GUI/.ipynb_checkpoints/GUI Programming-1-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../7.FSDS - GUI/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../7.FSDS - GUI/GUI Programming-1.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../7.FSDS - GUI/GUI Programming-2.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../7.FSDS - GUI/GUI Programming-3.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../7.FSDS - GUI/GUI Programming-4.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../7.FSDS - GUI/GUI Programming-5.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../7.FSDS - GUI/GUI Programming-6.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../7.FSDS - GUI/Untitled.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../8.FSDS - GRAPH/.ipynb_checkpoints/1.PLOTTING - 26TH MARCH-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../8.FSDS - GRAPH/.ipynb_checkpoints/2.PLOTTING - 27TH MARCH-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../8.FSDS - GRAPH/.ipynb_checkpoints/Matplotlib-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../8.FSDS - GRAPH/.ipynb_checkpoints/Plotly Maps-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../8.FSDS - GRAPH/.ipynb_checkpoints/Seaborn-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../8.FSDS - GRAPH/1.PLOTTING - 26TH MARCH.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../8.FSDS - GRAPH/2.PLOTTING - 27TH MARCH.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../8.FSDS - GRAPH/Matplotlib.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../8.FSDS - GRAPH/Plotly Maps.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../8.FSDS - GRAPH/Seaborn.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../8.FSDS - GRAPH/piechart.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../8.FSDS - GRAPH/sales.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../9.FSDS - API_FLASK/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../9.FSDS - API_FLASK/.idea/9.FSDS - API_FLASK.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../9.FSDS - API_FLASK/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../9.FSDS - API_FLASK/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../9.FSDS - API_FLASK/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../9.FSDS - API_FLASK/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../9.FSDS - API_FLASK/Task.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../9.FSDS - API_FLASK/Task.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../9.FSDS - API_FLASK/Test_API.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../9.FSDS - API_FLASK/flask/Flask.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../9.FSDS - API_FLASK/flask/flask_demo/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../9.FSDS - API_FLASK/flask/flask_demo/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../9.FSDS - API_FLASK/flask/flask_demo/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../9.FSDS - API_FLASK/flask/flask_demo/.idea/untitled.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../9.FSDS - API_FLASK/flask/flask_demo/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../9.FSDS - API_FLASK/flask/flask_demo/app.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../9.FSDS - API_FLASK/flask/flask_demo/static/css/main.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../9.FSDS - API_FLASK/flask/flask_demo/static/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../9.FSDS - API_FLASK/flask/flask_demo/templates/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../9.FSDS - API_FLASK/flask/flask_demo/templates/results.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../9.FSDS - API_FLASK/main.py" beforeDir="false" />
+    <list default="true" id="863b04cd-815d-44a8-8a8a-33798ccd5eee" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/9_FSDS_API_FLASK.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test_API.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask/Flask.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask/flask_demo/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask/flask_demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask/flask_demo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask/flask_demo/.idea/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask/flask_demo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask/flask_demo/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask/flask_demo/static/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask/flask_demo/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask/flask_demo/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/flask/flask_demo/templates/results.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -194,7 +40,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2FO5DSkk7QRJLAjy6E2BZoVBZFa" />
+  <component name="ProjectId" id="2FO7GZkvsLvN7LkzouWZO44v5TK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -204,22 +50,43 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true"
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "terminal"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\bvams\Documents\FSDS\9_FSDS_API_FLASK" />
-    </key>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="9_FSDS_API_FLASK" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="31b05374-cb9e-4512-9785-0ff16e2625f1" name="Changes" comment="" />
-      <created>1664350170147</created>
+      <changelist id="863b04cd-815d-44a8-8a8a-33798ccd5eee" name="Changes" comment="" />
+      <created>1664351187553</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1664350170147</updated>
+      <updated>1664351187553</updated>
     </task>
     <servers />
   </component>
@@ -236,5 +103,16 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
