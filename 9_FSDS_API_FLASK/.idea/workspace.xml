@@ -2,11 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="863b04cd-815d-44a8-8a8a-33798ccd5eee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Task_Flask_Simple_Database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/all-about-api-main/projects/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/all-about-api-main/projects/app-with-ui/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/all-about-api-main/projects/app-with-ui/templates/layouts/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/all-about-api-main/projects/db-app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/all-about-api-main/projects/db-app/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/all-about-api-main/projects/db-app/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/all-about-api-main/projects/db-app/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/all-about-api-main/projects/distributed-db-app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/all-about-api-main/projects/distributed-db-app/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/all-about-api-main/projects/distributed-db-app/application-architecture.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/all-about-api-main/projects/distributed-db-app/gateway_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/all-about-api-main/projects/distributed-db-app/mongodb_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/all-about-api-main/projects/distributed-db-app/mysql_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/all-about-api-main/projects/minimal-flask-app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/all-about-api-main/projects/minimal-flask-app/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/all-about-api-main/projects/minimal-flask-app/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/all-about-api-main/projects/service-monitoring/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/all-about-api-main/projects/service-monitoring/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/all-about-api-main/projects/service-monitoring/service-monitoring.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/all-about-api-main/projects/service-monitoring/service_config.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/all-about-api-main/projects/service-monitoring/service_five.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/all-about-api-main/projects/service-monitoring/service_four.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/all-about-api-main/projects/service-monitoring/service_monitor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/all-about-api-main/projects/service-monitoring/service_one.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/all-about-api-main/projects/service-monitoring/service_three.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/all-about-api-main/projects/service-monitoring/service_two.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/all-about-api-main/projects/service-monitoring/start.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/all-about-api-main/projects/simple-flask-api/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/all-about-api-main/projects/simple-flask-api/app.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Task.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flask/flask_demo/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/flask/flask_demo/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flask/flask_demo/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/flask/flask_demo/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Task_Flask_Simple_Database.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task_Flask_Simple_Database.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,10 +68,10 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+    "settings.editor.selected.configurable": "terminal"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Task">
+  <component name="RunManager" selected="Python.Task_Flask_Simple_Database">
     <configuration name="Task (1)" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="9_FSDS_API_FLASK" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -80,6 +106,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="C:\Users\bvams\Documents\FSDS\9_FSDS_API_FLASK\Task.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Task_Flask_Simple_Database" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="9_FSDS_API_FLASK" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Task_Flask_Simple_Database.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -174,8 +221,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Task" />
+        <item itemvalue="Python.Task_Flask_Simple_Database" />
         <item itemvalue="Python.app" />
+        <item itemvalue="Python.Task" />
         <item itemvalue="Python.Test_API" />
         <item itemvalue="Python.aaa" />
       </list>
