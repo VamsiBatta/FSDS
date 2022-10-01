@@ -14,17 +14,17 @@ c.execute("use exampledb")
 client = pymongo.MongoClient("mongodb+srv://Vamsi:12345@cluster0.9qjcg.mongodb.net/?retryWrites=true&w=majority")
 db = client.test
 
-db1 = client['ABC']
-coll1 = db1['abcd_collection']
+db = client['ABC']
+coll1 = db['abcd_collection']
 
-list1 = [
+"""list1 = [
     {"item": "journal", "instock": [{"warehouse": "A", "qty": 5}, {"warehouse": "C", "qty": 15}]},
     {"item": "notebook", "instock": [{"warehouse": "C", "qty": 5}]},
     {"item": "paper", "instock": [{"warehouse": "A", "qty": 60}, {"warehouse": "B", "qty": 15}]},
     {"item": "planner", "instock": [{"warehouse": "A", "qty": 40}, {"warehouse": "B", "qty": 5}]},
     {"item": "postcard", "instock": [{"warehouse": "B", "qty": 15}, {"warehouse": "C", "qty": 35}]}
 ]
-coll1.insert_many(list1)
+coll1.insert_many(list1)"""
 
 
 @app.route("/task1", methods=['GET', 'POST'])

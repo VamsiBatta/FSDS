@@ -2,35 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="863b04cd-815d-44a8-8a8a-33798ccd5eee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/all-about-api-main/projects/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all-about-api-main/projects/app-with-ui/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all-about-api-main/projects/app-with-ui/templates/layouts/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all-about-api-main/projects/db-app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all-about-api-main/projects/db-app/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all-about-api-main/projects/db-app/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all-about-api-main/projects/db-app/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all-about-api-main/projects/distributed-db-app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all-about-api-main/projects/distributed-db-app/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all-about-api-main/projects/distributed-db-app/application-architecture.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all-about-api-main/projects/distributed-db-app/gateway_service.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all-about-api-main/projects/distributed-db-app/mongodb_service.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all-about-api-main/projects/distributed-db-app/mysql_service.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all-about-api-main/projects/minimal-flask-app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all-about-api-main/projects/minimal-flask-app/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all-about-api-main/projects/minimal-flask-app/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all-about-api-main/projects/service-monitoring/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all-about-api-main/projects/service-monitoring/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all-about-api-main/projects/service-monitoring/service-monitoring.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all-about-api-main/projects/service-monitoring/service_config.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all-about-api-main/projects/service-monitoring/service_five.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all-about-api-main/projects/service-monitoring/service_four.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all-about-api-main/projects/service-monitoring/service_monitor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all-about-api-main/projects/service-monitoring/service_one.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all-about-api-main/projects/service-monitoring/service_three.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all-about-api-main/projects/service-monitoring/service_two.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all-about-api-main/projects/service-monitoring/start.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all-about-api-main/projects/simple-flask-api/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/all-about-api-main/projects/simple-flask-api/app.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Task_Flask_Simple_Database.py" beforeDir="false" afterPath="$PROJECT_DIR$/Task_Flask_Simple_Database.py" afterDir="false" />
     </list>
@@ -68,6 +39,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/bvams/Documents/FSDS/10_FSDS_PYTHON_PROJECT_SCRAPPING/ReviewFlask",
     "settings.editor.selected.configurable": "terminal"
   }
 }]]></component>
