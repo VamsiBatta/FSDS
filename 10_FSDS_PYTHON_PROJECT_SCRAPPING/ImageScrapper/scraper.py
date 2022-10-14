@@ -61,7 +61,7 @@ def fetch_image_urls(query: str, max_links_to_fetch: int, wd: webdriver, sleep_b
     return image_urls
 
 
-def persist_image(folder_path:str,url:str, counter):
+def persist_image(folder_path: str, url: str, counter):
     try:
         image_content = requests.get(url).content
 
@@ -103,5 +103,14 @@ def search_and_download(search_term: str, driver_path: str, target_path='./image
 DRIVER_PATH = 'chromedriver.exe'
 search_term = 'Audi'
 # num of images you can pass it from here  by default it's 10 if you are not passing
-#number_images = 50
-search_and_download(search_term=search_term, driver_path=DRIVER_PATH, number_images=10)
+# number_images = 50
+search_and_download(search_term=search_term, driver_path=DRIVER_PATH, number_images=15)
+
+# Tasks
+
+# 1. Try to Store all these images to mongodb
+# 2. Try to implement it with class and object
+# 3. Maintain Coding Standards
+# 4. Write a Function for fetch all the image based on their name from database
+# 5. Try to Modify a code so that it will first search in databse and check if images
+#    are available for a respective search, if not then only scrap.
